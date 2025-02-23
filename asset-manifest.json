@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.aa421065.css",
-    "main.js": "/portfolio/static/js/main.e9dbf920.js",
+    "main.js": "/portfolio/static/js/main.95f416bc.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/road.png": "/portfolio/static/media/road.71479c081ebbd6bee356.png",
@@ -9,6 +9,7 @@
     "static/media/sugar-rush.png": "/portfolio/static/media/sugar-rush.f6018c89ab5f0602bb83.png",
     "static/media/Ahmad Xoraiz Waheed - CV - main.pdf": "/portfolio/static/media/Ahmad Xoraiz Waheed - CV - main.cde30c05cb0c121dbc4f.pdf",
     "static/media/ml.png": "/portfolio/static/media/ml.be7de65c67b805e65210.png",
+    "static/media/quant.png": "/portfolio/static/media/quant.8f3321a91ac8e87d1c0e.png",
     "static/media/bookar-logo.png": "/portfolio/static/media/bookar-logo.24cabb22b7bf7d7cb1be.png",
     "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -19,12 +20,12 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/portfolio/index.html",
     "main.aa421065.css.map": "/portfolio/static/css/main.aa421065.css.map",
-    "main.e9dbf920.js.map": "/portfolio/static/js/main.e9dbf920.js.map",
+    "main.95f416bc.js.map": "/portfolio/static/js/main.95f416bc.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa421065.css",
-    "static/js/main.e9dbf920.js"
+    "static/js/main.95f416bc.js"
   ]
 }
